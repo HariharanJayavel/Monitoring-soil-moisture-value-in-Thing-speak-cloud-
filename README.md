@@ -1,6 +1,7 @@
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# EX-5: Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
-
+### NAME: HARIHARAN J
+### REG NO: 212223240047
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
 # Apparatus required:
